@@ -30,4 +30,3 @@ It contains the following columns:
 10) bmi: Body mass index
 11) smoking_status: "formerly smoked", "never smoked", "smokes" or "Unknown" (if this information for individuals is not available)
 12) stroke: 1 if the patient had a stroke or 0 if not
-![image](https://user-images.githubusercontent.com/102894041/229295799-5b3ec0ad-a21c-490d-9d16-c81f780df581.png)
